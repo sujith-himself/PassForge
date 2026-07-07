@@ -1,4 +1,4 @@
-# 🔐 PassForge — Quantum Password Strength Analyzer
+# 🔐 PassForge — Password Strength Analyzer with a lil touch of PQC
 
 > **Analyze, mutate, and generate cryptographically strong passwords — with quantum threat modeling built in.**
 
